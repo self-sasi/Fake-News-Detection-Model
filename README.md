@@ -96,7 +96,7 @@ In my application, users input the news title, author name, and the content into
 
 <img width="998" alt="Screenshot 2023-12-25 at 3 26 43 PM" src="https://github.com/self-sasi/Fake-News-Detection-Model/assets/140454190/53a64dec-1916-483e-98f5-5034d185fd2f">
 
-The bar chart illustrates the performance of our prediction model, showcasing a high accuracy score of 98.66% on the training set and a commendable 97.91% on the testing set, indicating robustness and reliability in its predictive capabilities.
+The bar chart illustrates the performance of the prediction model, showcasing a high accuracy score of 98.66% on the training set and a commendable 97.91% on the testing set, indicating robustness and reliability in its predictive capabilities.
 
 ## Contributions
 
