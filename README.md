@@ -43,10 +43,18 @@
 
 ### 1) Installing Necessary Tools:
 
-First, ensure that Python is installed on your system. Then install the following libraries using the terminal or command prompt:
+The initial step involves cloning the repository into a local directory on your machine. To accomplish this, execute the following command in your command prompt or Git Bash:
 
 ```bash
 pip install numpy pandas nltk scikit-learn
+```
+
+### 2) Installing Necessary Tools:
+
+Ensure that Python is installed on your system. Then install the following libraries using the terminal or command prompt:
+
+```bash
+git clone https://github.com/your-username/repository-name.git
 ```
 
 After installing the main packages, you may need to download specific resources from NLTK:
@@ -56,11 +64,11 @@ import nltk
 nltk.download('stopwords')
 ```
 
-### 2) Ensuring File Organization:
+### 3) Ensuring File Organization:
 
 Make sure every single file is saved in the same directory to avoid file-not-found errors.
 
-### 3) Running the Application:
+### 4) Running the Application:
 
 Execute the `app.py` file by running the following command in your terminal:
 
