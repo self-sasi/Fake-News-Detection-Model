@@ -1,4 +1,4 @@
-# Project Name: Fake News Prediction Model
+# Fake News Prediction Model
 
 ## About Files in the Repository
 
