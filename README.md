@@ -41,7 +41,7 @@
 
 ## How to Run the Model on Your Local Computer
 
-### 1) Installing Necessary Tools:
+### 1) Cloning the Repository:
 
 The initial step involves cloning the repository into a local directory on your machine. To accomplish this, execute the following command in your command prompt or Git Bash:
 
