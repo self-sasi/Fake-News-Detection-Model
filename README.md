@@ -46,7 +46,7 @@
 The initial step involves cloning the repository into a local directory on your machine. To accomplish this, execute the following command in your command prompt or Git Bash:
 
 ```bash
-pip install numpy pandas nltk scikit-learn
+git clone https://github.com/self-sasi/Fake-News-Detection-Model.git
 ```
 
 ### 2) Installing Necessary Tools:
@@ -54,7 +54,7 @@ pip install numpy pandas nltk scikit-learn
 Ensure that Python is installed on your system. Then install the following libraries using the terminal or command prompt:
 
 ```bash
-git clone https://github.com/self-sasi/Fake-News-Detection-Model.git
+pip install numpy pandas nltk scikit-learn
 ```
 
 After installing the main packages, you may need to download specific resources from NLTK:
