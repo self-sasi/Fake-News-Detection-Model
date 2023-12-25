@@ -1,4 +1,4 @@
-Fake News Detection Model
+### Fake News Detection Model
 
 ## About Files in the Repository
 
@@ -76,5 +76,3 @@ The running of `app.py` can take time as a huge dataset is used for training. On
 Feel free to fork the project, submit issues and pull requests to enhance the functionalities or fix problems.
 
 ---
-
-This README provides a clear and structured overview of your project, making it easy for others to understand what it's about, how to set it up, and how to use it. Always remember to update it as your project evolves.
