@@ -79,12 +79,24 @@ python app.py
 This should open a web page in your preferred browser. Once loaded, you can directly use the tool for prediction.
 
 
-<img width="1440" alt="image" src="https://github.com/self-sasi/Fake-News-Detection-Model/assets/140454190/a93d122a-5559-4725-883e-af0d4453aeb5">
+
 
 
 ### Note:
 
 The running of `app.py` can take time as a huge dataset is used for training. Once the model is formed and displayed completely on the webpage, it should be quick in processing.
+
+## Screenshots and Model Insights
+
+This section provides a visual and statistical representation of the project, including the performance of the prediction model, user interface, and other relevant details.
+
+### User Interface
+
+<img width="1440" alt="image" src="https://github.com/self-sasi/Fake-News-Detection-Model/assets/140454190/a93d122a-5559-4725-883e-af0d4453aeb5">
+
+### Model Performance
+
+<img width="998" alt="Screenshot 2023-12-25 at 3 26 43 PM" src="https://github.com/self-sasi/Fake-News-Detection-Model/assets/140454190/53a64dec-1916-483e-98f5-5034d185fd2f">
 
 ## Contributions
 
