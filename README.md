@@ -90,4 +90,10 @@ The running of `app.py` can take time as a huge dataset is used for training. On
 
 Feel free to fork the project, submit issues and pull requests to enhance the functionalities or fix problems.
 
+## Credits
+
+The `test.csv` and `train.csv` files utilized in this project are available on Kaggle as part of the Fake News dataset. You can find these files and more information at the following link: [Fake News Dataset on Kaggle](https://www.kaggle.com/c/fake-news/data?select=train.csv).
+
+I would like to acknowledge the creators and contributors of this dataset for providing the resources necessary to train and test our predictive models.
+
 ---
