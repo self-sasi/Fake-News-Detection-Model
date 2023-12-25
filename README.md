@@ -78,6 +78,7 @@ python app.py
 
 This should open a web page in your preferred browser. Once loaded, you can directly use the tool for prediction.
 
+
 <img width="1440" alt="image" src="https://github.com/self-sasi/Fake-News-Detection-Model/assets/140454190/a93d122a-5559-4725-883e-af0d4453aeb5">
 
 
