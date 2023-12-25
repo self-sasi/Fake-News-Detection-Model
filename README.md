@@ -92,7 +92,8 @@ This section provides a visual and statistical representation of the project, in
 
 ### User Interface
 
-<img width="1440" alt="image" src="https://github.com/self-sasi/Fake-News-Detection-Model/assets/140454190/a93d122a-5559-4725-883e-af0d4453aeb5">
+<img width="1440" alt="image" src="https://github.com/self-sasi/Fake-News-Detection-Model/assets/140454190/996c00f0-9972-4071-8299-468687f22d81">
+
 In my application, users input the news title, author name, and the content into a straightforward form. Upon submission, the model analyzes the credibility of the news and displays the prediction on the right side of the interface, enabling quick and informed assessments.
 
 ### Model Performance
