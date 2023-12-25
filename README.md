@@ -36,6 +36,9 @@
 ### `test.csv`
 - Sample file with multiple entries of news for testing purposes, not used in training.
 
+### `LICENSE`
+- The project is licensed under the MIT License. This license permits reuse, distribution, modification, private use, and licensing, provided that the original authorship is credited and the license notice and warranty disclaimer are preserved with the distribution.
+
 ## How to Run the Model on Your Local Computer
 
 ### 1) Installing Necessary Tools:
