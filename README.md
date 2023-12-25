@@ -78,10 +78,6 @@ python app.py
 
 This should open a web page in your preferred browser. Once loaded, you can directly use the tool for prediction.
 
-
-
-
-
 ### Note:
 
 The running of `app.py` can take time as a huge dataset is used for training. Once the model is formed and displayed completely on the webpage, it should be quick in processing.
@@ -99,6 +95,8 @@ In my application, users input the news title, author name, and the content into
 ### Model Performance
 
 <img width="998" alt="Screenshot 2023-12-25 at 3 26 43 PM" src="https://github.com/self-sasi/Fake-News-Detection-Model/assets/140454190/53a64dec-1916-483e-98f5-5034d185fd2f">
+
+The bar chart illustrates the performance of our prediction model, showcasing a high accuracy score of 98.66% on the training set and a commendable 97.91% on the testing set, indicating robustness and reliability in its predictive capabilities.
 
 ## Contributions
 
